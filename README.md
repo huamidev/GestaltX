@@ -9,7 +9,7 @@
 [![SwiftUI](https://img.shields.io/badge/Swift-SwiftUI-orange?logo=swift)](https://github.com/huamidev/GestaltX)
 [![License](https://img.shields.io/badge/license-GPLv3-blue)](LICENSE)
 
-[English](README.md) · [简体中文](README_ZH-CN.md) · [日本語](README_JA.md) · [한국어](README_KO.md)
+[English](README.md) · [简体中文](README_ZH-CN.md) · [日本語](README_JA.md) · [한국어](README_KO.md) · [Türkçe](README_TR.md)
 
 A MobileGestalt editor for iPhone and iPad. Developed by [huamidev](https://github.com/huamidev).
 
@@ -80,6 +80,7 @@ GestaltX follows your iOS language settings, with English as the default and fal
 | 한국어 — Korean | `ko` |
 | Español — Spanish | `es` |
 | 日本語 — Japanese | `ja` |
+| Türkçe — Turkish | `tr` |
 
 ## Credits
 
